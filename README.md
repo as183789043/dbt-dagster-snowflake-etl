@@ -4,3 +4,7 @@ A hands-on project following a Udemy course, utilizing dbt, Snowflake, and Dagst
 
 ## Architecture Diagram
 ![architecture diagram](https://github.com/user-attachments/assets/f5aa0bf8-fc81-4b90-9b3b-c35790b27d1b)
+
+
+## Data Flow
+![dataflow2](https://github.com/user-attachments/assets/0b9b30e6-c1a9-4c65-9d85-17e9d082eba2)
