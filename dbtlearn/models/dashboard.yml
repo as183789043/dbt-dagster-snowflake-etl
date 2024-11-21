@@ -14,5 +14,5 @@ exposures:
       - ref('mart_fullmoon_reviews')
 
     owner:
-      name: Zoltan C. Toth
-      email: dbtstudent@gmail.com
+      name: Rick Hsu
+      email: rickhsu1999@gmail.com
