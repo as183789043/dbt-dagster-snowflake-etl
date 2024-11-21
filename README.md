@@ -18,6 +18,9 @@ A hands-on project following a Udemy course, utilizing dbt, Snowflake, and Dagst
 ## Dagster Execute Job Detail Info
 ![dagster_shedule_detail_info](https://github.com/user-attachments/assets/489177f2-0c79-4478-a1b5-1f8fcea21be9)
 
+## Dagster Schedule Automation
+![automation_job](https://github.com/user-attachments/assets/27f7f6de-ce59-41a1-b51e-81fb997ae4b8)
+
 
 ## Dbt Docs
 ```bash
@@ -27,3 +30,8 @@ dbt docs serve
 ![dbt-doc](https://github.com/user-attachments/assets/67dc7b8e-b097-465f-bb5d-779d9547f5d6)
 
 
+## Table Columns Vaildate
+```bash
+dbt test
+```
+![dbt-test](https://github.com/user-attachments/assets/de01dffb-cf2a-4dc0-82be-b0856830ac11)
