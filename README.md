@@ -35,3 +35,7 @@ dbt docs serve
 dbt test
 ```
 ![dbt-test](https://github.com/user-attachments/assets/de01dffb-cf2a-4dc0-82be-b0856830ac11)
+
+
+## Dbt Plugin (DBT Power User)
+![plugin](https://github.com/user-attachments/assets/b4b5caf6-8875-4eee-8d1a-2115edc22ca2)
