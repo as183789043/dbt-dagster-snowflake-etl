@@ -22,7 +22,7 @@ A hands-on project following a Udemy course, utilizing dbt, Snowflake, and Dagst
 ![automation_job](https://github.com/user-attachments/assets/27f7f6de-ce59-41a1-b51e-81fb997ae4b8)
 
 
-## Dbt Docs
+## dbt Docs
 ```bash
 dbt docs generate
 dbt docs serve
